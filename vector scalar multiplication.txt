@@ -1,0 +1,11 @@
+                                          Multiplying a Vector by a Scalar
+
+When we multiply a vector by a scalar it is called "scaling" a vector, because we change how big or small the vector is.
+
+Example: multiply the vector m = (7, 3) by the scalar 3
+
+a = 3m = (3×7, 3×3) = (21, 9)
+
+It still points in the same direction, but is 3 times longer
+
+And now you know why numbers are called "scalars", because they "scale" the vector up or down.(negative scalar number)

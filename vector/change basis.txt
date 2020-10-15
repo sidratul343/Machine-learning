@@ -1,0 +1,39 @@
+
+                                                             
+
+                                                                 Change of basis
+
+Changing basis of a vector, the vector’s length & direction remain the same,
+but the numbers represent the vector will change,
+since the meaning of the numbers have changed.
+
+                                                     Projection vector method (Only for 90° bases)
+
+Given vectors v = (-4,-3,8) , b1 = (1,2,3), b2 = (-2,1,0) and b3 = (-3,-6,5) all written in the standard basis,
+what is v in the basis defined by b1, b2 and b3?
+you are given tha b1,b2 and b3 are all pairwise orthogonal to each other.
+
+  v1 = (vb1) / |b1|2 = (-4-6+24) / (rot(1+4+9))2 = 14 / (rot(14))2 = 14 / 14 
+     = 1
+
+  v2 = (vb2) / |b2|2 = (8-3+0) / 5 = 5/5
+     = 1
+
+  v3 = (vb3) / |b3|2 = (12 + 18 + 40) / 70 = 70/70
+     = 1
+
+ans = (1,1,1)
+
+                                              How to check if two vectors are orthogonal(90 degree) or not
+
+
+cos a = (b1.b2) / |b1| |b2|
+if b1.b2 == 0 then b1 and b2 are orthogonal (90 degree)
+
+example:
+    b1 = (2,1)
+    b2 = (-2,4)
+    b1 . b2 = -4 + 4 = 0
+
+so, they are orthogonal to each other.
+
