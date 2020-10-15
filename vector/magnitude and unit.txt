@@ -1,0 +1,13 @@
+                                             Magnitude of a Vector
+
+The magnitude of a vector is shown by two vertical bars on either side of the vector: |a|
+
+We use Pythagoras' theorem to calculate it:
+
+|a| = √( x2 + y2 )
+
+Example: what is the magnitude of the vector b = (6, 8) ?
+
+|b| = √( 62 + 82) = √( 36+64) = √100 = 10
+
+A vector with magnitude 1 is called a Unit Vector.
