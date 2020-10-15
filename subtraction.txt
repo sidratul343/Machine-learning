@@ -1,9 +1,0 @@
-                                        Subtracting Vectors
-
-To subtract, first reverse the vector we want to subtract, then add.
-
-Example: subtract k = (4, 5) from v = (12, 2)
-
-a = v + −k
-
-a = (12, 2) + −(4, 5) = (12, 2) + (−4, −5) = (12−4, 2−5) = (8, −3)
